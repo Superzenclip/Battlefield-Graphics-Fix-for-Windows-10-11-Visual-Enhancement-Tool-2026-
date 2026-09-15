@@ -1,0 +1,43 @@
+# Binaries
+*.exe
+*.msi
+*.dll
+*.so
+*.dylib
+*.app
+
+# Build output
+/dist
+/build
+/out
+/node_modules
+/vendor
+
+# Logs & cache
+*.log
+*.tmp
+*.cache
+logs/
+cache/
+temp/
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Secrets
+.env
+*.pem
+*.key
+*.crt
+
+# User files
+*.user
+*.suo
+*.sln.docstates
